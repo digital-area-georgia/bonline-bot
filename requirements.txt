@@ -1,0 +1,6 @@
+requests
+schedule
+pymongo
+python-dotenv
+slacker
+dnspython
